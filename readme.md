@@ -1,5 +1,5 @@
-#Trabajo práctico integrador programación 2
-##Grupo133_Propiedad--EscrituraNotarial
+# Trabajo práctico integrador programación 2
+## Grupo133_Propiedad--EscrituraNotarial
 
 ### Pre-requisitos
 - Java 21
